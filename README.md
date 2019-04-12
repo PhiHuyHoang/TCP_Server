@@ -1,1 +1,1 @@
-"# The stupid thing make me angry" 
+# The stupid thing make me angry
